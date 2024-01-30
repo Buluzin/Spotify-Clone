@@ -1,0 +1,175 @@
+.breaking {
+    position: absolute;
+    top: 200px;
+    left: 60px;
+    color: white;
+    font-size: 20px;
+    max-width: 110px;
+    overflow-wrap: break-word;
+    text-align: center;
+}
+
+.bring {
+    position: absolute;
+    top: 200px;
+    left: 240px;
+    color: white;
+    font-size: 20px;
+    max-width: 140px;
+    overflow-wrap: break-word;
+    text-align: center;
+}
+
+.bullet {
+    position: absolute;
+    top: 200px;
+    left: 430px;
+    color: white;
+    font-size: 20px;
+    max-width: 150px;
+    overflow-wrap: break-word;
+    text-align: center;
+}
+
+.disturbed {
+    position: absolute;
+    top: 200px;
+    left: 640px;
+    color: white;
+    font-size: 20px;
+    max-width: 120px;
+    overflow-wrap: break-word;
+    text-align: center;
+}
+
+.from {
+    position: absolute;
+    top: 390px;
+    left: 40px;
+    color: white;
+    font-size: 20px;
+    max-width: 150px;
+    overflow-wrap: break-word;
+    text-align: center;
+}
+
+.linkin {
+    position: absolute;
+    top: 390px;
+    left: 250px;
+    color: white;
+    font-size: 20px;
+    max-width: 110px;
+    overflow-wrap: break-word;
+    text-align: center;
+}
+
+.limp {
+    position: absolute;
+    top: 390px;
+    left: 440px;
+    color: white;
+    font-size: 20px;
+    max-width: 110px;
+    overflow-wrap: break-word;
+    text-align: center;
+}
+
+.nothing {
+    position: absolute;
+    top: 390px;
+    left: 640px;
+    color: white;
+    font-size: 20px;
+    max-width: 110px;
+    overflow-wrap: break-word;
+    text-align: center;
+}
+
+.papa {
+    position: absolute;
+    top: 580px;
+    left: 60px;
+    color: white;
+    font-size: 20px;
+    max-width: 110px;
+    overflow-wrap: break-word;
+    text-align: center;
+}
+
+.pod {
+    position: absolute;
+    top: 580px;
+    left: 280px;
+    color: white;
+    font-size: 20px;
+    max-width: 110px;
+    overflow-wrap: break-word;
+    text-align: center;
+}
+
+.rise {
+    position: absolute;
+    top: 580px;
+    left: 440px;
+    color: white;
+    font-size: 20px;
+    max-width: 120px;
+    overflow-wrap: break-word;
+    text-align: center;
+}
+
+.plot {
+    position: absolute;
+    top: 580px;
+    left: 640px;
+    color: white;
+    font-size: 20px;
+    max-width: 110px;
+    overflow-wrap: break-word;
+    text-align: center;
+}
+
+.three {
+    position: absolute;
+    top: 770px;
+    left: 40px;
+    color: white;
+    font-size: 20px;
+    max-width: 150px;
+    overflow-wrap: break-word;
+    text-align: center;
+}
+
+.seether{
+    position: absolute;
+    top: 770px;
+    left: 260px;
+    color: white;
+    font-size: 20px;
+    max-width: 120px;
+    overflow-wrap: break-word;
+    text-align: center;
+}
+
+.slipknot{
+    position: absolute;
+    top: 770px;
+    left: 450px;
+    color: white;
+    font-size: 20px;
+    max-width: 120px;
+    overflow-wrap: break-word;
+    text-align: center;
+}
+
+.system {
+    position: absolute;
+    top: 770px;
+    left: 640px;
+    color: white;
+    font-size: 20px;
+    max-width: 120px;
+    overflow-wrap: break-word;
+    text-align: center;
+}

@@ -1,0 +1,16 @@
+.imagens{
+    position: relative;
+    display: inline-block;
+}
+
+.bottom {
+    padding-bottom: 20px;
+}
+
+.playlist {
+    text-align: center;
+}
+
+.playlist2 {
+    text-align: right;
+}
